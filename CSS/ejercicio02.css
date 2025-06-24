@@ -1,0 +1,15 @@
+.footer{
+    padding-top: 30px;
+    background-color:beige;
+    text-align: center;
+}
+.ImagenesBlok{
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+.imagenesNormal{
+    width: 200px;
+    border: 1px solid black;
+    height: 200px;
+}
